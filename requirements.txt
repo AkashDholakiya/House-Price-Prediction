@@ -1,3 +1,6 @@
 streamlit
 joblib
 numpy
+sklearn
+pandas
+matplotlib.pyplot
